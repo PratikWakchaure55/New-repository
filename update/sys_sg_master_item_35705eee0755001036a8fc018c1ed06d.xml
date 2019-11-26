@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order>-1</condition_order>
+        <datasource_table>x_428378_mshop_shopping_item</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Shopping Items">75705eee0755001036a8fc018c1ed068</embedded_screen>
+        <item_view display_value="Shopping Item List Screen Item View">b1705eee0755001036a8fc018c1ed065</item_view>
+        <name>Shopping Item master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-26 19:12:57</sys_created_on>
+        <sys_id>35705eee0755001036a8fc018c1ed06d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Shopping Item master_item</sys_name>
+        <sys_package display_value="Mobile shopping list" source="x_428378_mshop">b07dc62e0755001036a8fc018c1ed0b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile shopping list">b07dc62e0755001036a8fc018c1ed0b1</sys_scope>
+        <sys_update_name>sys_sg_master_item_35705eee0755001036a8fc018c1ed06d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-26 19:30:27</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
